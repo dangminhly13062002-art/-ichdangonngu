@@ -1,0 +1,5 @@
+{
+  "name": "SRT Translator AI",
+  "description": "Ứng dụng dịch phụ đề SRT đa ngôn ngữ sử dụng AI, giữ nguyên định dạng và thời gian.",
+  "requestFramePermissions": []
+}
